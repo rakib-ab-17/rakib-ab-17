@@ -8,7 +8,7 @@ I am developing practical skills across web development, databases, cybersecurit
 
 ## 🚀 What I Work With
 
-- Web Development — HTML, CSS, JavaScript, PHP, Bootstrap, javascript(Basic), ReactNative(Basic), Python(Basic)
+- Web Development — HTML, CSS, JavaScript, PHP, Bootstrap, javascript(Basic), ReactNative(Basic), Python(Basic), Wordpress
 - Database — MySQL & CRUD Operations
 - Cyber Security — Foundational Cybersecurity & Forensics
 - Cloud & DevOps — AWS Fundamentals, Git, GitHub, Linux
